@@ -26,6 +26,7 @@ body {
   min-height: 100vh;
 }
 
+/* LEFT SIDE - HERO */
 .hero {
   flex: 1 1 40%;
   background: url("https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-4.0.3&auto=format&fit=crop&w=1400&q=80")
